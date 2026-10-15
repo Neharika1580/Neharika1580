@@ -1,5 +1,17 @@
-# 💫 Hi there, I'm Neharika:
-AI/ML and data analytics projects in Python — deep learning, model building, and automated data pipelines.<br>AI, Machine Learning, and Data Analytics projects with real-world impact.<br>Agentic AI, LLMs, and production-grade AI workflows.<br>Generative AI and advanced SQL.<br>Python, Pandas, NumPy, Scikit-learn, PyTorch, SQL, Power BI, Advanced Excel, Data Cleaning, EDA, Machine Learning, Deep Learning, and Dashboard Development.<br>I placed 2nd at the IIT Roorkee PROD G Competition, and I firmly believe the best way to learn AI is to build something every single week.
+# 💫 Hi there, I'm D. Neharika!
+
+Data Analyst & ECE ('26) passionate about building production-grade AI workflows, predictive ML models, and automated data pipelines.
+
+---
+
+### 🚀 What I Do
+
+- 📊 **Data Analytics & ML:** Hands-on experience in model building, deep learning, automated data pipelines, and data quality monitoring.
+- 🤖 **AI & LLMs:** Exploring Agentic AI, Generative AI, and production-grade AI workflows.
+- 🛠️ **Core Tech Stack:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL (PostgreSQL), Power BI, Advanced Excel, EDA & Dashboard Development.
+- 🏆 **Highlights:** 2nd Place at IIT Roorkee PROD G Competition.
+
+> 💡 *I firmly believe the best way to learn AI is to build something every single week.*
 
 
 ## 🌐 Socials:
