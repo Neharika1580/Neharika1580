@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, Neharika this side:
 AI/ML and data analytics projects in Python — deep learning, model building, and automated data pipelines.<br>AI, Machine Learning, and Data Analytics projects with real-world impact.<br>Agentic AI, LLMs, and production-grade AI workflows.<br>Generative AI and advanced SQL.<br>Python, Pandas, NumPy, Scikit-learn, PyTorch, SQL, Power BI, Advanced Excel, Data Cleaning, EDA, Machine Learning, Deep Learning, and Dashboard Development.<br>I placed 2nd at the IIT Roorkee PROD G Competition, and I firmly believe the best way to learn AI is to build something every single week.
 
 
